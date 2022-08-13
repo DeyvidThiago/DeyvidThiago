@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje eu estudo Front-End...
+- 🔭 Sou desenvolvedor Front-End...
 - 🌱 Atualmente estou estudando JavaScript :)
 
 ##
